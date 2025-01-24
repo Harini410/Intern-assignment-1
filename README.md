@@ -1,5 +1,7 @@
 # Google sheets clone
 
+# Assignment-1
+
 ## Description
 This project is a web-based spreadsheet application that mimics basic functionalities of Excel. Users can input data, use formulas, and manipulate cells.
 
@@ -13,7 +15,7 @@ This project is a web-based spreadsheet application that mimics basic functional
 ## Installation
 1. Clone the repository:
    ```bash
-   git clone <repository-url>
+   git clone <https://github.com/Harini410/Intern-assignment-2.git>
 
 2. Navigate to the project directory:
 cd <project-directory>
@@ -45,4 +47,3 @@ cd <project-directory>
    - Ensure all code is properly commented and organized.
    - Test the application one last time to confirm everything is functioning as expected.
 
-# Assignment-1
